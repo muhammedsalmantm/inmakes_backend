@@ -94,7 +94,6 @@ class _SignUpPageState extends State<SignUpPage> {
               ),
                SizedBox(height: 30),
 
-              // Name
               TextField(
                 controller: _nameController,
                 decoration: InputDecoration(
@@ -108,7 +107,6 @@ class _SignUpPageState extends State<SignUpPage> {
               ),
                SizedBox(height: 16),
 
-              // Email
               TextField(
                 controller: _emailController,
                 decoration: InputDecoration(
@@ -122,7 +120,6 @@ class _SignUpPageState extends State<SignUpPage> {
               ),
                SizedBox(height: 16),
 
-              // Password
               TextField(
                 controller: _passwordController,
                 obscureText: true,
@@ -137,7 +134,6 @@ class _SignUpPageState extends State<SignUpPage> {
               ),
               const SizedBox(height: 16),
 
-              // Confirm Password
               TextField(
                 controller: _confirmController,
                 obscureText: true,

@@ -94,7 +94,6 @@ class _UpdatePageState extends State<UpdatePage> {
               ),
               const SizedBox(height: 30),
 
-              // Name
               TextField(
                 controller: nameController,
                 decoration: InputDecoration(
