@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "637701175257",
+    "project_id": "inmakes-11c75",
+    "storage_bucket": "inmakes-11c75.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637701175257:android:932538c7186304b8c24bc8",
+        "android_client_info": {
+          "package_name": "com.example.inmakes_backend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT_6RypAKd0QXMX649dzwWorhFi74BPNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
